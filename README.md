@@ -6,88 +6,100 @@ I'm a Computer Science graduate from the **Université du Québec à Trois-Rivi�
 
 I'm currently building **Urlbeo**, a modern link-in-bio platform focused on simplicity, performance, and user experience.
 
-> 💼 **Open to Software Developer & IT Opportunities**
+> **Open to Software Developer & IT Opportunities**
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 Bachelor's Degree in Computer Science — UQTR
-- 🇨🇦 Based in Quebec, Canada
-- 💻 Full-Stack Web & Mobile Developer
-- 🏗️ Interested in backend architecture and API design
-- 🔒 Interested in security, cloud, and DevOps
-- 📚 Continuously learning system design and software architecture
-- 🚀 Building products from idea to production
+- Bachelor's Degree in Computer Science — UQTR
+- Based in Quebec, Canada
+- Full-Stack Web & Mobile Developer
+- Interested in backend architecture and API design
+- Interested in security, cloud, and DevOps
+- Continuously learning system design and software architecture
+- Building products from idea to production
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 
-<p>
-  <img src="https://cdn.simpleicons.org/nextdotjs/9CA3AF" width="32" height="32" alt="Next.js" title="Next.js" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="32" height="32" alt="React" title="React" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="32" height="32" alt="TypeScript" title="TypeScript" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="32" height="32" alt="Tailwind CSS" title="Tailwind CSS" />
-  <img src="https://cdn.simpleicons.org/shadcnui/9CA3AF" width="32" height="32" alt="shadcn/ui" title="shadcn/ui" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/nextdotjs/9CA3AF" width="30" height="30" alt="Next.js" /><br /><sub><b>Next.js</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/react/61DAFB" width="30" height="30" alt="React" /><br /><sub><b>React</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="30" height="30" alt="TypeScript" /><br /><sub><b>TypeScript</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="30" height="30" alt="Tailwind CSS" /><br /><sub><b>Tailwind</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/shadcnui/9CA3AF" width="30" height="30" alt="shadcn/ui" /><br /><sub><b>shadcn/ui</b></sub></td>
+  </tr>
+</table>
 
 ### Mobile
 
-<p>
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="32" height="32" alt="React Native" title="React Native" />
-  <img src="https://cdn.simpleicons.org/expo/9CA3AF" width="32" height="32" alt="Expo" title="Expo" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="32" height="32" alt="TypeScript" title="TypeScript" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/react/61DAFB" width="30" height="30" alt="React Native" /><br /><sub><b>React Native</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/expo/9CA3AF" width="30" height="30" alt="Expo" /><br /><sub><b>Expo</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="30" height="30" alt="TypeScript" /><br /><sub><b>TypeScript</b></sub></td>
+  </tr>
+</table>
 
 ### Backend & Database
 
-<p>
-  <img src="https://cdn.simpleicons.org/nestjs/E0234E" width="32" height="32" alt="NestJS" title="NestJS" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="32" height="32" alt="Node.js" title="Node.js" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="32" height="32" alt="PostgreSQL" title="PostgreSQL" />
-  <img src="https://cdn.simpleicons.org/prisma/9CA3AF" width="32" height="32" alt="Prisma ORM" title="Prisma ORM" />
-  <img src="https://cdn.simpleicons.org/openapiinitiative/6BA539" width="32" height="32" alt="REST APIs" title="REST APIs" />
-  <img src="https://cdn.simpleicons.org/clerk/6C47FF" width="32" height="32" alt="Clerk" title="Clerk Authentication" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/nestjs/E0234E" width="30" height="30" alt="NestJS" /><br /><sub><b>NestJS</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="30" height="30" alt="Node.js" /><br /><sub><b>Node.js</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="30" height="30" alt="PostgreSQL" /><br /><sub><b>PostgreSQL</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/prisma/9CA3AF" width="30" height="30" alt="Prisma ORM" /><br /><sub><b>Prisma</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/openapiinitiative/6BA539" width="30" height="30" alt="REST APIs" /><br /><sub><b>REST APIs</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/clerk/6C47FF" width="30" height="30" alt="Clerk" /><br /><sub><b>Clerk</b></sub></td>
+  </tr>
+</table>
 
 ### Cloud & Managed Services
 
-<p>
-  <img src="https://cdn.simpleicons.org/vercel/9CA3AF" width="32" height="32" alt="Vercel" title="Vercel" />
-  <img src="https://cdn.simpleicons.org/render/46E3B7" width="32" height="32" alt="Render" title="Render" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" width="32" height="32" alt="Heroku" title="Heroku" />
-  <img src="https://cdn.simpleicons.org/railway/9CA3AF" width="32" height="32" alt="Railway" title="Railway" />
-  <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="32" height="32" alt="Cloudflare" title="Cloudflare" />
-  <img src="https://cdn.simpleicons.org/neon/00E599" width="32" height="32" alt="Neon" title="Neon" />
-  <img src="https://cdn.simpleicons.org/cloudinary/3448C5" width="32" height="32" alt="Cloudinary" title="Cloudinary" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/vercel/9CA3AF" width="30" height="30" alt="Vercel" /><br /><sub><b>Vercel</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/render/46E3B7" width="30" height="30" alt="Render" /><br /><sub><b>Render</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" width="30" height="30" alt="Heroku" /><br /><sub><b>Heroku</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/railway/9CA3AF" width="30" height="30" alt="Railway" /><br /><sub><b>Railway</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/cloudflare/F38020" width="30" height="30" alt="Cloudflare" /><br /><sub><b>Cloudflare</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/neon/00E599" width="30" height="30" alt="Neon" /><br /><sub><b>Neon</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/cloudinary/3448C5" width="30" height="30" alt="Cloudinary" /><br /><sub><b>Cloudinary</b></sub></td>
+  </tr>
+</table>
 
 ### Payments & Identity
 
-<p>
-  <img src="https://cdn.simpleicons.org/stripe/635BFF" width="32" height="32" alt="Stripe" title="Stripe — Payments" />
-  <img src="https://cdn.simpleicons.org/lemonsqueezy/FFC233" width="32" height="32" alt="Lemon Squeezy" title="Lemon Squeezy — Payments" />
-  <img src="https://www.google.com/s2/favicons?domain=veriff.com&amp;sz=128" width="32" height="32" alt="Veriff" title="Veriff — Identity Verification and KYC" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="100"><img src="https://cdn.simpleicons.org/stripe/635BFF" width="30" height="30" alt="Stripe" /><br /><sub><b>Stripe</b></sub></td>
+    <td align="center" width="100"><img src="https://cdn.simpleicons.org/lemonsqueezy/FFC233" width="30" height="30" alt="Lemon Squeezy" /><br /><sub><b>Lemon Squeezy</b></sub></td>
+    <td align="center" width="100"><img src="https://www.google.com/s2/favicons?domain=veriff.com&amp;sz=128" width="30" height="30" alt="Veriff" /><br /><sub><b>Veriff</b></sub></td>
+  </tr>
+</table>
 
 ### DevOps & Tools
 
-<p>
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="32" height="32" alt="Docker" title="Docker" />
-  <img src="https://cdn.simpleicons.org/git/F05032" width="32" height="32" alt="Git" title="Git" />
-  <img src="https://cdn.simpleicons.org/github/9CA3AF" width="32" height="32" alt="GitHub" title="GitHub" />
-  <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="32" height="32" alt="GitHub Actions" title="GitHub Actions — CI/CD" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="32" height="32" alt="Postman" title="Postman" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="32" height="32" alt="VS Code" title="VS Code" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="32" height="32" alt="Figma" title="Figma" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/docker/2496ED" width="30" height="30" alt="Docker" /><br /><sub><b>Docker</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/git/F05032" width="30" height="30" alt="Git" /><br /><sub><b>Git</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/github/9CA3AF" width="30" height="30" alt="GitHub" /><br /><sub><b>GitHub</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/githubactions/2088FF" width="30" height="30" alt="GitHub Actions" /><br /><sub><b>Actions</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/postman/FF6C37" width="30" height="30" alt="Postman" /><br /><sub><b>Postman</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30" height="30" alt="VS Code" /><br /><sub><b>VS Code</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/figma/F24E1E" width="30" height="30" alt="Figma" /><br /><sub><b>Figma</b></sub></td>
+  </tr>
+</table>
 
 ---
 
-## 🤖 AI-Assisted Development
+## AI-Assisted Development
 
 I use AI tools as part of my development workflow to improve productivity, code quality, and collaboration while keeping technical decisions and final validation under my control.
 
@@ -99,9 +111,14 @@ I use AI tools as part of my development workflow to improve productivity, code 
 
 ---
 
-## 🚀 Current Project
+## Current Project
 
-### 🌐 Urlbeo
+<h3>
+  <a href="https://www.urlbeo.com/">
+    <img src="./images/urlbeo-logo.png" width="40" height="40" align="center" alt="Urlbeo logo" />
+  </a>
+  Urlbeo
+</h3>
 
 > **One link. Every platform.**
 
@@ -113,7 +130,7 @@ Urlbeo is deployed using modern cloud platforms and managed services. GitHub Act
 
 ---
 
-### 🌍 Urlbeo Landing Page
+### Urlbeo Landing Page
 
 The public website introduces Urlbeo, its features and product vision through a fast, responsive, and SEO-friendly experience.
 
@@ -128,13 +145,13 @@ The public website introduces Urlbeo, its features and product vision through a 
 
 **Built with:** Next.js, React, TypeScript, and Tailwind CSS.
 
-🔗 [View the Urlbeo Landing Page repository](https://github.com/kev243/urlbeo-public-nextjs)
+[View the Urlbeo Landing Page repository](https://github.com/kev243/urlbeo-public-nextjs)
 
-🔗 [View the Urlbeo homepage online](https://www.urlbeo.com/)
+[View the Urlbeo homepage online](https://www.urlbeo.com/)
 
 ---
 
-### ⚙️ Urlbeo Backend
+### Urlbeo Backend
 
 The backend service powering the Urlbeo platform, designed around a modular and maintainable architecture.
 
@@ -152,11 +169,11 @@ The backend service powering the Urlbeo platform, designed around a modular and 
 
 **Built with:** NestJS, Prisma ORM, and PostgreSQL.
 
-🔗 [View the Urlbeo Backend repository](https://github.com/kev243/urlbeo-backend-nestjs)
+[View the Urlbeo Backend repository](https://github.com/kev243/urlbeo-backend-nestjs)
 
 ---
 
-### 📱 Urlbeo Mobile App
+### Urlbeo Mobile App
 
 > **Status: 🚧 Work in Progress**
 
@@ -175,7 +192,7 @@ The official mobile application will allow users to manage their Urlbeo profile 
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 - Cloud computing
 - Docker
@@ -186,17 +203,17 @@ The official mobile application will allow users to manage their Urlbeo profile 
 
 ---
 
-## 📈 Current Goals
+## Current Goals
 
-- 🚀 Launch the Urlbeo MVP
-- 📱 Complete the mobile application
-- ☁️ Strengthen my cloud and DevOps skills
-- 💼 Join a collaborative software development team
-- 🌍 Continue building high-quality SaaS products
+- Launch the Urlbeo MVP
+- Complete the mobile application
+- Strengthen my cloud and DevOps skills
+- Join a collaborative software development team
+- Continue building high-quality SaaS products
 
 ---
 
-## 🤝 Connect with Me
+## Connect with Me
 
 <p>
   <a href="https://www.linkedin.com/in/kevin-nimi/">
