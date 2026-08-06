@@ -9,7 +9,11 @@ I'm currently building **Urlbeo**, a modern link-in-bio platform focused on simp
 > **Open to Software Developer & IT Opportunities**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kev243/kev243/output/github-contribution-grid-snake-dark.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kev243/kev243/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kev243/kev243/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/kev243/kev243/output/github-contribution-grid-snake.svg" alt="Kevin Nimi's GitHub contribution snake" />
+  </picture>
 </p>
 
 ---
