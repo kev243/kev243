@@ -8,6 +8,10 @@ I'm currently building **Urlbeo**, a modern link-in-bio platform focused on simp
 
 > **Open to Software Developer & IT Opportunities**
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kev243/kev243/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 ---
 
 ## About Me
