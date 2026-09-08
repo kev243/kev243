@@ -4,7 +4,7 @@
 
 I'm a Computer Science graduate from the **Université du Québec à Trois-Rivières (UQTR)**, passionate about building scalable web and mobile applications from the ground up.
 
-I'm currently building **Urlbeo**, a modern link-in-bio platform focused on simplicity, performance, and user experience.
+I'm currently building and maintaining **MailyForm** and **Plakard**, two products available to real users across web and mobile.
 
 > **Open to Software Developer & IT Opportunities**
 
@@ -119,84 +119,76 @@ I use AI tools as part of my development workflow to improve productivity, code 
 
 ---
 
-## Current Project
+## Projects in Production
 
 <h3>
-  <a href="https://www.urlbeo.com/">
-    <img src="./images/urlbeo-logo.png" width="40" height="40" align="center" alt="Urlbeo logo" />
+  <a href="https://www.mailyform.com/">
+    <img src="./images/mailyform-logo.png" width="42" height="42" align="center" alt="MailyForm logo" />
   </a>
-  Urlbeo
+  MailyForm
 </h3>
 
-> **One link. Every platform.**
+> **Form infrastructure for developers.**
 
-Urlbeo is a modern link-in-bio platform that enables creators, freelancers, businesses, and professionals to share all of their important links from a single customizable page.
+MailyForm is a full-stack SaaS product that lets developers receive form submissions without building and maintaining their own form backend. A developer creates an endpoint, connects it to a form, and manages submissions from a focused dashboard.
 
-The product is being developed as a complete SaaS ecosystem composed of a landing page, a backend API, and a mobile application.
+**What it includes**
 
-Urlbeo is deployed using modern cloud platforms and managed services. GitHub Actions supports its CI/CD workflow, helping automate reliable and repeatable releases.
+- Hosted form endpoints for HTML, JavaScript, React, and Next.js
+- Submission storage, email delivery, and verified recipient addresses
+- Spam analysis, rate limiting, and usage quotas
+- Authentication, account management, and subscription infrastructure
+- Dashboard analytics, delivery status, and developer documentation
+- Automated linting, tests, production builds, and deployment checks
 
----
+**Built with:** Next.js, React, TypeScript, NestJS, PostgreSQL, Prisma, Redis, Clerk, Inngest, Resend, Lemon Squeezy, Sentry, and GitHub Actions.
 
-### Urlbeo Landing Page
+[Open MailyForm](https://www.mailyform.com/dashboard) · [Frontend source code](https://github.com/kev243/mailyform-frontend-nextjs) · [Backend source code](https://github.com/kev243/mailyform-NestJs)
 
-The public website introduces Urlbeo, its features and product vision through a fast, responsive, and SEO-friendly experience.
+### MailyForm SDK
 
-**Key features**
+The official JavaScript and React SDK for MailyForm provides a small, typed API for connecting forms without writing request and state-management logic from scratch.
 
-- Responsive design
-- Fast performance
-- SEO optimization
-- Modern user interface
-- Reusable components
-- Clear product presentation
+```bash
+npm install mailyform
+```
 
-**Built with:** Next.js, React, TypeScript, and Tailwind CSS.
+- `submitForm` works in browsers, Node.js, and Next.js server routes
+- `useMailyForm` manages React form state, submissions, errors, and request cancellation
+- Typed receipts and structured `MailyFormError` responses
+- ESM and CommonJS builds with dedicated React exports
+- Tested with Vitest and validated with TypeScript before publication
 
-[View the Urlbeo Landing Page repository](https://github.com/kev243/urlbeo-public-nextjs)
+**Built with:** TypeScript, React, tsup, Vitest, and Testing Library.
 
-[View the Urlbeo homepage online](https://www.urlbeo.com/)
-
----
-
-### Urlbeo Backend
-
-The backend service powering the Urlbeo platform, designed around a modular and maintainable architecture.
-
-**Key features**
-
-- REST API
-- Authentication
-- User management
-- Link management
-- Analytics foundation
-- Input validation
-- Security best practices
-- Modular architecture
-- PostgreSQL database
-
-**Built with:** NestJS, Prisma ORM, and PostgreSQL.
-
-[View the Urlbeo Backend repository](https://github.com/kev243/urlbeo-backend-nestjs)
+[View on npm](https://www.npmjs.com/package/mailyform) · [View the source code](https://github.com/kev243/mailyform-sdk)
 
 ---
 
-### Urlbeo Mobile App
+<h3>
+  <a href="https://testflight.apple.com/join/FeN5A8yx">
+    <img src="./images/plakard-logo.png" width="42" height="42" align="center" alt="Plakard logo" />
+  </a>
+  Plakard
+</h3>
 
-> **Status: 🚧 Work in Progress**
+> **A simple, private way to track expiration dates.**
 
-The official mobile application will allow users to manage their Urlbeo profile from anywhere.
+Plakard is a React Native application for keeping track of products stored in a fridge, freezer, pantry, or elsewhere. It is currently available to iOS testers through TestFlight and works entirely on the device, without requiring an account or cloud storage.
 
-**Planned features**
+**What it includes**
 
-- Authentication
-- Profile management
-- Link management
-- Live preview
-- Analytics
-- Mobile-first experience
+- Product management by storage location and category
+- Clear freshness, warning, critical, and expired states
+- Calendar view and filters by location or urgency
+- Configurable local expiration reminders
+- Offline SQLite persistence with schema migrations
+- Light, dark, and system themes
+- Tested date and notification logic, including time changes and leap years
 
-**Built with:** React Native, Expo, and TypeScript.
+**Built with:** React Native, Expo, Expo Router, TypeScript, SQLite, Expo Notifications, and Jest.
+
+[Join the TestFlight beta](https://testflight.apple.com/join/FeN5A8yx) · [Visit the website](https://plakard-site.vercel.app/) · [View the source code](https://github.com/kev243/plakard-app-react-native)
 
 ---
 
@@ -213,11 +205,11 @@ The official mobile application will allow users to manage their Urlbeo profile 
 
 ## Current Goals
 
-- Launch the Urlbeo MVP
-- Complete the mobile application
+- Grow MailyForm through real developer feedback
+- Bring Plakard from TestFlight to the App Store
 - Strengthen my cloud and DevOps skills
 - Join a collaborative software development team
-- Continue building high-quality SaaS products
+- Continue building reliable products for real users
 
 ---
 
