@@ -143,7 +143,7 @@ MailyForm is a full-stack SaaS product that lets developers receive form submiss
 
 **Built with:** Next.js, React, TypeScript, NestJS, PostgreSQL, Prisma, Redis, Clerk, Inngest, Resend, Lemon Squeezy, Sentry, and GitHub Actions.
 
-[Open MailyForm](https://www.mailyform.com/dashboard) · [Frontend source code](https://github.com/kev243/mailyform-frontend-nextjs) · [Backend source code](https://github.com/kev243/mailyform-NestJs)
+[Open MailyForm](https://www.mailyform.com)
 
 ### MailyForm SDK
 
