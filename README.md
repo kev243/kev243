@@ -166,7 +166,7 @@ npm install mailyform
 ---
 
 <h3>
-  <a href="https://testflight.apple.com/join/FeN5A8yx">
+  <a href="https://apps.apple.com/us/app/plakard/id6806073074">
     <img src="./images/plakard-logo.png" width="42" height="42" align="center" alt="Plakard logo" />
   </a>
   Plakard
@@ -174,7 +174,7 @@ npm install mailyform
 
 > **A simple, private way to track expiration dates.**
 
-Plakard is a React Native application for keeping track of products stored in a fridge, freezer, pantry, or elsewhere. It is currently available to iOS testers through TestFlight and works entirely on the device, without requiring an account or cloud storage.
+Plakard is a React Native application for keeping track of products stored in a fridge, freezer, pantry, or elsewhere. It is available on the Apple App Store and works entirely on the device, without requiring an account or cloud storage.
 
 **What it includes**
 
@@ -188,7 +188,7 @@ Plakard is a React Native application for keeping track of products stored in a 
 
 **Built with:** React Native, Expo, Expo Router, TypeScript, SQLite, Expo Notifications, and Jest.
 
-[Join the TestFlight beta](https://testflight.apple.com/join/FeN5A8yx) · [Visit the website](https://plakard-site.vercel.app/) · [View the source code](https://github.com/kev243/plakard-app-react-native)
+[Download on the App Store](https://apps.apple.com/us/app/plakard/id6806073074) · [Visit the website](https://plakard-site.vercel.app/) · [View the source code](https://github.com/kev243/plakard-app-react-native)
 
 ---
 
@@ -206,7 +206,7 @@ Plakard is a React Native application for keeping track of products stored in a 
 ## Current Goals
 
 - Grow MailyForm through real developer feedback
-- Bring Plakard from TestFlight to the App Store
+- Improve Plakard through feedback from App Store users
 - Strengthen my cloud and DevOps skills
 - Join a collaborative software development team
 - Continue building reliable products for real users
